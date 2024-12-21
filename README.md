@@ -5,6 +5,8 @@ The **Collaborative Research Rewards** smart contract is designed to facilitate 
 
 ## Contract Address
 0x85FEc27b6D2fe2dFAdF333661889499611936365
+![image](https://github.com/user-attachments/assets/346e0c5e-a682-4b5c-aae8-c609c2db4c84)
+
 
 ## Project Vision
 The project aims to promote collaboration and innovation among researchers by providing a transparent and decentralized platform for managing research contributions and distributing rewards. By utilizing blockchain technology, this system ensures that rewards are allocated fairly and securely without relying on centralized intermediaries.
